@@ -6,11 +6,13 @@ const LogoContainer = styled.div`
 margin: 5px 0px 0px 10px;
 
 
+
 `;
 
 const LogoImage = styled.img`
     width: 30%;
     margin-top: 20px;
+    margin-left: 20px;
 `;
 
 function Logo() {

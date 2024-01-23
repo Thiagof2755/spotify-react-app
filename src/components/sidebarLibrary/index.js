@@ -1,6 +1,9 @@
 import styled from "styled-components";
 import ContentSidebarLibrary from "../contentSidebarLibrary";
 import CreatePlaylistSidebarLibrary from "../createPlaylistSidebarLibraly";
+import CookiesSidebarLibrary from "../cookiesSidebarLibrary";
+import LanguageSidebarLibrary from "../languageSidebarLibrary";
+
 
 const SidebarLibraryContainer = styled.div`
     margin-top: 10px;
@@ -10,7 +13,7 @@ const SidebarLibraryContainer = styled.div`
     width: 300px;
     height: 330px;
     border-radius: 10px;
-    align-items: center;
+    align-items: flex-start; // Align to the left
     
 `;
 
@@ -19,6 +22,8 @@ function SidebarLibrary() {
         <SidebarLibraryContainer>
             <ContentSidebarLibrary />
             <CreatePlaylistSidebarLibrary/>
+            <CookiesSidebarLibrary/>
+            <LanguageSidebarLibrary/>
         </SidebarLibraryContainer>
     );
 }

@@ -12,6 +12,10 @@ const ContentSidebarLibraryContainer = styled.div`
 const Icone = styled.div`
     color : #888;
     justify-content: space-between;
+    &:hover {
+        color: #666;
+    }
+    cursor: pointer
 `;
 
 const StyledIcon = styled(FaBook, FaPlus)`
@@ -21,6 +25,7 @@ margin: 25px 20px 5px 20px;
 
 const TituloHover = styled(Titulo)`
 margin-top: 15px;
+
 
 
 `;

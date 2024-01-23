@@ -7,6 +7,7 @@ const OpcoesSidebarNavigationContainer = styled.div`
     display: flex;
     align-items: flex-start;
     justify-content: flex-start;
+    margin-left: 10px;
 `;
 
 const TituloContainer = styled.div`

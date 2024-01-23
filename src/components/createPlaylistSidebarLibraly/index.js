@@ -11,6 +11,7 @@ const CreatePlaylistSidebarLibraryContainer = styled.div`
     width: 280px;
     height: 130px;
     margin-top: 15px;
+    margin-left: 10px;
 `
 
 const TituloHover = styled(Titulo)`
@@ -35,7 +36,7 @@ const Button = styled.button`
     cursor: pointer;
     text-align: left;
     margin-left: 20px;
-    margin-top: 10px;
+    margin-top: 5px;
 `;
 
 function CreatePlaylistSidebarLibrary() {
