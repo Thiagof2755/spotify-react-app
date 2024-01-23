@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import styled from 'styled-components';
+import SidebarNavigation from './components/sidebarNavigation'
+import SidebarLibrary from './components/sidebarLibrary'
+
+
+
+const AppContainer = styled.div`
+    width: 100vw;
+    min-height: 100vh;
+    margin-top: 0;
+`
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <AppContainer>
+            <SidebarNavigation />
+            <SidebarLibrary />
+        </AppContainer>
+    );
 }
 
 export default App;
