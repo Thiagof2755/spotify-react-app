@@ -1,22 +1,32 @@
 # 🎵 Spotify React App 🎵
 
+![Imagem do Aplicativo](./Home.png)
+
 Este é um projeto que recria a interface do Spotify usando React. O objetivo é aprender e praticar o desenvolvimento de aplicações web modernas com React.
+
+## 🚀 Demonstração
+
+Veja o Spotify React App em funcionamento [aqui](https://spotify-react-app-phi.vercel.app/).
 
 ## 🎯 Objetivo
 
-O objetivo deste projeto é criar uma versão funcional da interface do Spotify. Isso inclui a reprodução de músicas, pesquisa de músicas, criação e edição de playlists.
+O objetivo deste projeto foi criar uma versão da interface do Spotify. 
 
 ## 💡 Motivação
 
-A motivação por trás deste projeto é aprimorar minhas habilidades em React e aprender mais sobre o desenvolvimento de aplicações web modernas. Além disso, é uma ótima oportunidade para explorar a API do Spotify e aprender como integrar com APIs de terceiros.
+A motivação por trás deste projeto é aprimorar minhas habilidades em React e aprender mais sobre o desenvolvimento de aplicações web modernas. Além disso, é uma ótima oportunidade para colocar meus conhecimentos em ação e me desafiar.
 
-## 🚀 Como começar
+## 🎓 Imersão Alura
 
-Para começar, clone o repositório, instale as dependências com `npm install` e então execute `npm start` para iniciar o servidor de desenvolvimento.
+Estou participando da Imersão de front-end da Alura 👩‍💻
+
+Este evento, promovido pela Alura, tem como objetivo a prática e o ensino de conceitos front end. O desafio proposto é criar um clone da página do Spotify utilizando CSS, HTML e JavaScript.
+
+No entanto, decidi me desafiar ainda mais e estou desenvolvendo este projeto utilizando o framework React. Estou animado para aplicar e aprofundar meus conhecimentos neste framework enquanto participo desta imersão!
 
 ## 🙌 Contribuindo
 
-Contribuições são muito bem-vindas! Se você tem uma ideia para melhorar o aplicativo, sinta-se à vontade para abrir uma issue ou um pull request.
+Contribuições são muito bem-vindas! Se você tem uma ideia para melhorar , sinta-se à vontade para abrir uma issue ou um pull request.
 
 ## 📜 Licença
 
