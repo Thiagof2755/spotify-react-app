@@ -7,6 +7,11 @@ const ContentSidebarLibraryContainer = styled.div`
     align-items: center;
     justify-content: flex-start;
     width: 100%;
+
+    @media (max-width: 390px) {
+        width: 100%;
+        height: auto;
+    }
 `;
 
 const Icone = styled.div`

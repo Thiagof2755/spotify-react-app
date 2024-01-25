@@ -11,6 +11,11 @@ const FooterContainer = styled.div`
     padding: 15px 40px;
     display: flex;
     justify-content: space-between;
+
+    @media (max-width: 390px) {
+        width: 100%;
+        height: auto;
+    }
 `;
 
 const FooterText = styled.div`

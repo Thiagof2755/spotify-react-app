@@ -12,6 +12,12 @@ const CreatePlaylistSidebarLibraryContainer = styled.div`
     height: 130px;
     margin-top: 15px;
     margin-left: 10px;
+
+    
+    @media (max-width: 390px) {
+        width: 100%;
+        height: auto;
+    }
 `
 
 const TituloHover = styled(Titulo)`

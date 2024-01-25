@@ -1,0 +1,77 @@
+[
+    {
+        "id": "1",
+        "title": "Boas festas",
+        "backgroundColor": "#0000FF"
+    },
+    {
+        "id": "2",
+        "title": "Feitos para você",
+        "backgroundColor": "#00FF00"
+    },
+    {
+        "id": "3",
+        "title": "Lançamentos",
+        "backgroundColor": "#FF0000"
+    },
+    {
+        "id": "4",
+        "title": "Creators",
+        "backgroundColor": "#FFFF00"
+    },
+    {
+        "id": "5",
+        "title": "Para treinar",
+        "backgroundColor": "#FF00FF"
+    },
+    {
+        "id": "6",
+        "title": "Podcasts",
+        "backgroundColor": "#00FFFF"
+    },
+    {
+        "id": "7",
+        "title": "Sertanejo",
+        "backgroundColor": "#800080"
+    },
+    {
+        "id": "8",
+        "title": "Samba e pagode",
+        "backgroundColor": "#008000"
+    },
+    {
+        "id": "9",
+        "title": "Funk",
+        "backgroundColor": "#FFA500"
+    },
+    {
+        "id": "10",
+        "title": "MPB",
+        "backgroundColor": "#800000"
+    },
+    {
+        "id": "11",
+        "title": "Rock",
+        "backgroundColor": "#000080"
+    },
+    {
+        "id": "12",
+        "title": "Hip Hop",
+        "backgroundColor": "#FFC0CB"
+    },
+    {
+        "id": "13",
+        "title": "Indie",
+        "backgroundColor": "#008080"
+    },
+    {
+        "id": "14",
+        "title": "Relax",
+        "backgroundColor": "#FFD700"
+    },
+    {
+        "id": "15",
+        "title": "Música Latina",
+        "backgroundColor": "#800000"
+    }
+]

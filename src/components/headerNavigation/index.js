@@ -9,6 +9,7 @@ const HeaderContainer = styled.div`
     justify-content: space-between;
     margin: 10px;
     margin-top: 0;
+    max-width: 94%;
     margin-right: 30px;
     border-radius: 8px;
     background-color: #121212;

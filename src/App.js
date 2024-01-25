@@ -4,6 +4,7 @@ import SidebarNavigation from './components/sidebarNavigation'
 import SidebarLibrary from './components/sidebarLibrary'
 import Footer from './components/footer';
 import HeaderNavigation from './components/headerNavigation';
+import Playlist from './components/Playlist';
 
 const AppContainer = styled.div`
     width: 100vw;
@@ -38,6 +39,7 @@ function App() {
                 </SideBar>
                 <Container>
                     <HeaderNavigation />
+                    <Playlist/>
                 </Container>
                 <Footer />
             </MainContainer>

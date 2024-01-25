@@ -4,7 +4,6 @@ import CreatePlaylistSidebarLibrary from "../createPlaylistSidebarLibraly";
 import CookiesSidebarLibrary from "../cookiesSidebarLibrary";
 import LanguageSidebarLibrary from "../languageSidebarLibrary";
 
-
 const SidebarLibraryContainer = styled.div`
     margin-top: 10px;
     display: flex;
@@ -15,6 +14,10 @@ const SidebarLibraryContainer = styled.div`
     border-radius: 10px;
     align-items: flex-start; // Align to the left
     
+    @media (max-width: 390px) {
+        width: 100%;
+        height: auto;
+    }
 `;
 
 function SidebarLibrary() {
