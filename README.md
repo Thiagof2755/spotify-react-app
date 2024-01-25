@@ -1,16 +1,16 @@
 # 🎵 Spotify React App 🎵
 
-![Imagem do Aplicativo](./Home.png)
-
 Este é um projeto que recria a interface do Spotify usando React. O objetivo é aprender e praticar o desenvolvimento de aplicações web modernas com React.
-
-## 🚀 Demonstração
-
-Veja o Spotify React App em funcionamento [aqui](https://spotify-react-app-phi.vercel.app/).
 
 ## 🎯 Objetivo
 
 O objetivo deste projeto foi criar uma versão da interface do Spotify. 
+
+## 🚀 Demonstração
+
+![Imagem do Aplicativo](./Home.png)
+
+Veja o Spotify React App em funcionamento [aqui](https://spotify-react-app-phi.vercel.app/).
 
 ## 💡 Motivação
 
